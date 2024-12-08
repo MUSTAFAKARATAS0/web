@@ -1,0 +1,14 @@
+.about-container {
+    background-color: #3498db; /* Arka plan rengini buraya yazabilirsiniz */
+    height: 100vh; /* Tam ekran yapar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .about-container h1 {
+    color: white; /* Başlık rengini beyaz yapıyoruz */
+    font-size: 3rem;
+  }
+  
